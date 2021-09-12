@@ -4,7 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="author" content="sperospera">
+    <meta name="description" content="이낙연 대통령 후보의 정책을 알아봅니다">
+    <meta name="keywords" content="준비된 대통령 이낙연, 내 삶을 지켜주는 나라">
+    <title>LEENAKYON</title>
+
+    <!-- meta -->
+    <meta name="format-detection" content="telephone=no">
+    <meta property="og:title" content="찾아줘 내 삶을 지켜주는 정책">
+    <meta property="og:url" content="http://이낙연.net/">
+    <meta property="og:image" content="https://webstoryboy.github.io/apple/assets/icon/icon.jpg">
+    <meta property="og:description" content="준비된 대통령 이낙연, 내 삶을 지켜주는 나라">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="찾아줘 내 삶을 지켜주는 정책">
+    <meta name="twitter:url" content="https://webstoryboy.github.io/apple">
+    <meta name="twitter:image" content="https://webstoryboy.github.io/apple/assets/icon/icon.jpg">
+    <meta name="twitter:description" content="준비된 대통령 이낙연, 내 삶을 지켜주는 나라">
+
+    <!-- icon -->
+    <link rel="apple-touch-icon-precomposed" href="https://webstoryboy.github.io/apple/assets/icon/icon.jpg">
+    <link rel="apple-touch-icon-precomposed" sizes="96x96" href="https://webstoryboy.github.io/apple/assets/icon/icon_96.jpg">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://webstoryboy.github.io/apple/assets/icon/icon_144.jpg">
+    <link rel="apple-touch-icon-precomposed" sizes="192x192" href="https://webstoryboy.github.io/apple/assets/icon/icon_192.jpg">
+
+    <!-- style -->
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/fonts.css">
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
     
